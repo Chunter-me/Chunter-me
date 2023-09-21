@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://chunter.me/portfolio](https://chunter.me/portfolio)
 
-- 📝 I regularly write articles on [https://hunter.me](https://chunter.me)
+- 📝 I regularly write articles on [https://chunter.me](https://chunter.me)
 
 - 💬 Ask me about **vue, nuxt, asp.net, c#, aptify**
 
