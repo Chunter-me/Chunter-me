@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://chunter.me/about](https://chunter.me/about)
 
-- ⚡ Fun fact **I watch way too much anime as of July 30, 2023, my **Completed Anime** stats are: TV Series: 1435, OVAs: 848, Movies: 231, Specials: 114, Episodes: 30921, Days of Life: 526.49, not including re-watches.**
+- ⚡ Fun fact **I watch way too much anime as of July 30, 2023, my Completed Anime stats are: TV Series: 1435, OVAs: 848, Movies: 231, Specials: 114, Episodes: 30921, Days of Life: 526.49, not including re-watches.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
