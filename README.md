@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on [Kaizen Archives](https://archives.chunter.me/)
 
-- 👨‍💻 All of my projects are available at [https://www.chunter.me/portfolio](https://www.chunter.me/portfolio)
+- 👨‍💻 All of my projects are available at [https://chunter.me/portfolio](https://chunter.me/portfolio)
 
-- 📝 I regularly write articles on [https://www.chunter.me](https://www.chunter.me)
+- 📝 I regularly write articles on [https://hunter.me](https://chunter.me)
 
 - 💬 Ask me about **vue, nuxt, asp.net, c#, aptify**
 
 - 📫 How to reach me **chris.hunter@chunter.me**
 
-- 📄 Know about my experiences [https://www.chunter.me/about](https://www.chunter.me/about)
+- 📄 Know about my experiences [https://chunter.me/about](https://chunter.me/about)
 
 - ⚡ Fun fact **I watch way too much anime as of July 30, 2023 my Completed anime stats are: TV Series: 1435, OVA: 848, Movies: 231, Specials: 114, Episodes: 30921, Days: 526.49, not including re-watches.**
 
