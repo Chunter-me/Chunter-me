@@ -22,7 +22,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="[https://azure.microsoft.com/en-in/](https://www.aptify.com/)" target="_blank" rel="noreferrer"> <img src="[https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg](https://media.licdn.com/dms/image/C560BAQH2prnoh6ISjA/company-logo_100_100/0/1670524220215?e=1703116800&v=beta&t=mZKTZf8auk2XwuUskYbwdMrhM2QiWe0eo--ZDbKmiuo)" alt="aptify" width="40" height="40"/> </a> 
+  <a href="https://www.aptify.com" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/C560BAQH2prnoh6ISjA/company-logo_100_100/0/1670524220215?e=1703116800&v=beta&t=mZKTZf8auk2XwuUskYbwdMrhM2QiWe0eo--ZDbKmiuo" alt="aptify" width="40" height="40"/> </a> 
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
